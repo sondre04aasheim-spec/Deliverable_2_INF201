@@ -1,0 +1,30 @@
+Deliverable 2 - recordings and AI use
+
+G6_1: Zuzanna Magdalena Smolinska and Sondre Aasheim
+
+git link
+https://github.com/sondre04aasheim-spec/Deliverable_2_INF201.git
+
+
+Having problems with merging two videos we have recorded into one, we submit the links to them separately. 
+
+Part 1 of the submission video: 
+https://nmbu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0a119ee6-6a1d-4283-a77e-b4f300ba7079
+
+Part 2 of the submission video:
+https://nmbu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a47ac997-269e-4917-bc29-b4f20168ca02
+
+
+Parts 1-2:
+I have worked on tasks 1-2 with the help of artificial intelligence (Claude).
+
+I asked Claude to explain the assignment and suggest the best approach to the tasks, without giving me the whole solution. I have asked for suggestions on which commands I should use, and in some cases, for their detailed explanations, so I could understand and explain the code better myself. 
+
+I have also took Claude's suggestion to include code verification cells and on what to verify with them. 
+
+Claude also helped me find and fix errors in my code.
+
+Parts 3-5:
+
+AI chatlog 
+https://chatgpt.com/share/6ae3bfcf-b674-83ed-aa0e-bc0c6e29a503
